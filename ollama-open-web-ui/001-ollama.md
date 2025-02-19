@@ -48,6 +48,9 @@ Ollama is powerful, but using it in the terminal has some limitations:
 - Less User-Friendly – Running models via CLI requires manual commands.
 
 ### Set up Open Web UI for a Better Experience!
+
+[Guide >> ](002-open-web-ui.md)
+
 - Chat history & better response formatting 📝
 - Easier multi-turn conversations 💬
 - More interactive & visually structured 🖥️
