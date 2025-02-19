@@ -57,3 +57,5 @@ Ollama is powerful, but using it in the terminal has some limitations:
 - No need to type commands each time!
 
 ![alt text](image-5.png)
+
+# [Next : Install Open WebUI ](002-open-web-ui.md)

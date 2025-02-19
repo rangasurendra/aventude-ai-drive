@@ -33,3 +33,7 @@ Use Case
 | **CodeLlama (7B, 13B, 34B)**      | Medium to Large        | Best for coding-related AI tasks        |
 | **Gemma**                         | Small-Medium (7B, 13B) | Balanced LLM for general-purpose AI     |
 | **Mixtral (12.9B active params)** | Medium                 | Good multi-purpose AI with efficiency   |
+
+
+https://github.com/ollama/ollama
+https://github.com/open-webui/open-webui

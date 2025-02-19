@@ -36,3 +36,5 @@ Now you can navigate to [`http://localhost:3000/`](http://localhost:3000/) and s
 We'll check what Open-WebUI has to offer in a upcoming post.
 
 ![alt text](image-11.png)
+
+# [Further : Notes](003-notes.md)

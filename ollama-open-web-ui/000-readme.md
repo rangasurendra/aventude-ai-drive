@@ -10,3 +10,5 @@ This repository provides a comprehensive guide to setting up and running local L
 - ✅ Tips on optimizing speed, memory usage & security 🔐
 
 This repo is perfect for developers, AI enthusiasts, and power users who want to experiment, optimize, and take full control over local AI models.
+
+# [Next : Install Ollama](001-ollama.md)
